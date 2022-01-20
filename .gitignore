@@ -1,5 +1,5 @@
-./.vscode/*.log
-./build/*
-./login.log
-./sql.c
-./users.db
+.vscode/*.log
+build/*
+login.log
+sql.c
+users.db
