@@ -1,27 +1,47 @@
-OS 
+## Brief Introduction
 
-- Linux
+**Data Structure Course Design - Campus Guide System.**
+
+- Used data structure:
+
+    > List
+    >
+    > Queue
+    >
+    > Graph
+
+- Algorithm implementation:
+
+    > BFS
+    >
+    > DFS
+    >
+    > Djustra
+    >
+    >   - Find the shortest path.
 
 ---
 
-编译
+## Build Project
 
-```
-make
-```
+- OS 
 
----
+    Arch Linux
 
-运行
+- Compile Command
 
-```
-./run
-```
+    ```
+    make
+    ```
 
----
+- Run Command
 
-清除构建后的项目
+    ```
+    ./run
+    ```
 
-```
-make clean
-```
+- Clean Project's File After Build
+
+    ```
+    make clean
+    ```
