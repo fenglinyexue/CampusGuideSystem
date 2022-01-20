@@ -1,4 +1,4 @@
-.vscode/*.log
+.vscode
 build/*
 login.log
 sql.c
